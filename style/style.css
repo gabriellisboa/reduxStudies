@@ -11,11 +11,23 @@
     max-width: 64px;
 }
 
+.video-detail {
+    width: 75%;
+    display: inline-block;
+}
+
+
+
 .video-detail .details {
     margin-top: 10px;
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
+}
+
+.list-group {
+    width: 25%;
+    display: inline-block; 
 }
 
 .list-group-item {
